@@ -108,7 +108,6 @@ base_developer_tools:
   - recode
   - remmina
   - rename
-  - ripgrep  # launch using rg from the cli
   - shellcheck
   - siege
   - socat
