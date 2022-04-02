@@ -109,14 +109,11 @@ base_developer_tools:
   - remmina
   - rename
   - ripgrep  # launch using rg from the cli
-  - ruby
-  - ruby-dev
   - shellcheck
   - siege
   - socat
   - sshfs
   - sshpass
-  - sshuttle
   - tilix
   - tldr
   - tmux
@@ -128,8 +125,6 @@ base_developer_tools:
   - zeal
 
 base_virtualization_tools:
-  - virtualbox
-#  - virtualbox-ext-pack
   - docker.io
   - docker-compose
 
