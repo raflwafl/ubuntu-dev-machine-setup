@@ -7,7 +7,6 @@ base_archiving_tools:
   - mpack
   - p7zip-full
   - p7zip-rar
-  - rar
   - sharutils
   - unace
   - unrar
