@@ -32,4 +32,10 @@
     - containerd.io
 
 
+- name: add user to docker group
+  user:
+    name: "{{ local_username }}"
+    append: yes
+    groups:
+      - docker
 ...
